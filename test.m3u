@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:0,204945
-http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/204945
-#EXTINF:0,5605.ts
-http://vuelo.monster:8080/live/2291662860361116/8691662860361116/5605.ts
+#EXTINF:60,hornets_1280x720_3300k.m3u8
+https://eldarmigulin83.s3.eu-west-1.amazonaws.com/hornets_1280x720_3300k.m3u8
